@@ -1,0 +1,6 @@
+A simple description of the columns from left to right
+Jonah Gannon
+June 2023
+
+The columns in UDG_data.csv from left to right are:
+
