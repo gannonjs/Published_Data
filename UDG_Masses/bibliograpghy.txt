@@ -5,6 +5,43 @@ June 2023
 
 Bibliography Entries (not sorted in any manner):
 
+@ARTICLE{Toloba2023,
+       author = {{Toloba}, Elisa and {Sales}, Laura V. and {Lim}, Sungsoon and {Peng}, Eric W. and {Guhathakurta}, Puragra and {Roediger}, Joel and {Wang}, Kaixiang and {Mihos}, J. Christopher and {Cote}, Patrick and {Durrell}, Patrick R. and {Ferrarese}, Laura},
+        title = "{The Next Generation Virgo Cluster Survey (NGVS). XXXV. First Kinematical Clues of Overly-Massive Dark Matter Halos in Several Ultra-Diffuse Galaxies in the Virgo Cluster}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = may,
+          eid = {arXiv:2305.06369},
+        pages = {arXiv:2305.06369},
+          doi = {10.48550/arXiv.2305.06369},
+archivePrefix = {arXiv},
+       eprint = {2305.06369},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230506369T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Gannon2023,
+       author = {{Gannon}, Jonah S. and {Forbes}, Duncan A. and {Brodie}, Jean P. and {Romanowsky}, Aaron J. and {Couch}, Warrick J. and {Ferr{\'e}-Mateu}, Anna},
+        title = "{Keck spectroscopy of the coma cluster ultra-diffuse galaxy Y358: dynamical mass in a wider context}",
+      journal = {\mnras},
+     keywords = {galaxies: elliptical and lenticular, cD, galaxies: formation, galaxies: fundamental parameters, galaxies: haloes, galaxies: kinematics and dynamics, Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = jan,
+       volume = {518},
+       number = {3},
+        pages = {3653-3666},
+          doi = {10.1093/mnras/stac3264},
+archivePrefix = {arXiv},
+       eprint = {2211.03915},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.3653G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{Lim2018,
        author = {{Lim}, Sungsoon and {Peng}, Eric W. and {C{\^o}t{\'e}}, Patrick and {Sales}, Laura V. and {den Brok}, Mark and {Blakeslee}, John P. and {Guhathakurta}, Puragra},
         title = "{The Globular Cluster Systems of Ultra-diffuse Galaxies in the Coma Cluster}",
