@@ -4,3 +4,25 @@ June 2023
 
 The columns in UDG_data.csv from left to right are:
 
+1) UDG primary designation used to identify it in individual_galaxy_notes
+2) Environment: 1= cluster, 2=group, 3=field/filament
+3) Distance [Mpc] - frequently assumed
+4) Absolue V-band Magnitude [mag]
+5) Average V-band surface brightness < \mu_V >_e within the half-light radius [mag arcsec^-2]
+6) Stellar mass [ x 10^8 Solar Units]
+7) 2-D Circularised Half-light Radius [kpc]
+8) Recessional Velocity [km/s]
+9) Uncertainty on Recessonal Velocity up [km/s]
+10) Uncertainty on Recessional Velocity down [km/s]
+11) Stellar velocity Dispersion [km/s]
+12) Uncertainty on stellar velocity dispersion up [km/s]
+13) Uncertainty on stellar velocity dispersion down [km/s]
+14) Globular Cluster velocity dispersion [km/s] 
+15) Uncertainty on globular cluster velocity dispersion up [km/s]
+16) Uncertainty on globular cluster velocity dispersion down [km/s]
+17) Number of globular clusters
+18) Uncertainty on number of globular clusters up
+19) Uncertainty on number of globular clusters down
+
+Units are given in [square brackets]
+Unknown values have been replaced with -1
