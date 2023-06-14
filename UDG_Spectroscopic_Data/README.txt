@@ -1,6 +1,12 @@
-This folder is designed to store a public database of UDG dynamical masses. It represents an extension of Table A1 from:
+This folder is designed to store a public database of UDG spectroscopic data. 
+
+It represents an extension of the spectroscopic velocity dispersins listed in Table A1 from:
 
 Gannon J.~S., Forbes D.~A., Brodie J.~P., Romanowsky A.~J., Couch W.~J., Ferr{\'e}-Mateu A., 2023, MNRAS, 518, 3653. doi:10.1093/mnras/stac3264
+
+And an extension of the spectroscopic stellar population information listed between Tables 1 and 2 in:
+
+Ferr{\'e}-Mateu A., Gannon J.~S., Forbes D.~A., Buzzo M. L., Romanowsky A.~J., Brodie J.~P., 2023, MNRAS, Submittied.
 
 It is requested users of this database please cite the above work.
 
