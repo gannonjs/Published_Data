@@ -15,7 +15,7 @@ It contains:
 To be included in the database galaxies are required to have:
 1) A half-light radius > 1.5 kpc (note this is semi-major while the table lists circularised).
 2) An average V-band surface brightness < \mu_V >)_e within the half-light radius greater than 24.7 mag/ arcsec^2.
-3) A spectroscopic velocity dispersion. 
+3) A spectroscopic velocity dispersion and/or spectroscopic stellar population information (mass weighted age/mass weighted metallicity [Z/H])
 
 Cuts 1) and 2) are designed based on the van Dokkum et al. (2015) UDG definition but here we choose an average surface brightness cut to not bias ourselves against nucleated UDGs.
 
