@@ -8,7 +8,8 @@ It contains:
 1) This Readme
 2) bibiography.txt - A bibliography of bibtex entries for the source material
 3) column_labels.txt - A list of the columns and their units
-4) udg_data.csv - a csv file containing the UDG database. The first row re-lists the columns.
+4) individual_galaxy_notes.md - A list of each galaxy included in the compilation including notes on where the data comes from and considerations made when selecting the inclusions.
+5) udg_data.csv - a csv file containing the UDG database. The first row re-lists the columns.
 
 
 To be included in the database galaxies are required to have:
