@@ -10,7 +10,7 @@ Ferr{\'e}-Mateu A., Gannon J.~S., Forbes D.~A., Buzzo M. L., Romanowsky A.~J., B
 
 It is requested users of this database please cite the above work.
 
-_#### Please note that the galaxies DF44 and DFX1 are currently repeated with the two disagreeing globular cluster counts. If not using this table to compare to globular cluster counts one entry should be deleted.
+#### Please note that the galaxies DF44 and DFX1 are currently repeated with the two disagreeing globular cluster counts. If not using this table to compare to globular cluster counts one entry should be deleted.
 
 It contains:
 1) This Readme
