@@ -22,6 +22,27 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{Leaman2012,
+       author = {{Leaman}, Ryan and {Venn}, Kim A. and {Brooks}, Alyson M. and {Battaglia}, Giuseppina and {Cole}, Andrew A. and {Ibata}, Rodrigo A. and {Irwin}, Mike J. and {McConnachie}, Alan W. and {Mendel}, J. Trevor and {Tolstoy}, Eline},
+        title = "{The Resolved Structure and Dynamics of an Isolated Dwarf Galaxy: A VLT and Keck Spectroscopic Survey of WLM}",
+      journal = {\apj},
+     keywords = {galaxies: abundances, galaxies: dwarf, galaxies: evolution, galaxies: individual: WLM, galaxies: kinematics and dynamics, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = 2012,
+        month = may,
+       volume = {750},
+       number = {1},
+          eid = {33},
+        pages = {33},
+          doi = {10.1088/0004-637X/750/1/33},
+archivePrefix = {arXiv},
+       eprint = {1202.4474},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2012ApJ...750...33L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{Gannon2023,
        author = {{Gannon}, Jonah S. and {Forbes}, Duncan A. and {Brodie}, Jean P. and {Romanowsky}, Aaron J. and {Couch}, Warrick J. and {Ferr{\'e}-Mateu}, Anna},
         title = "{Keck spectroscopy of the coma cluster ultra-diffuse galaxy Y358: dynamical mass in a wider context}",
