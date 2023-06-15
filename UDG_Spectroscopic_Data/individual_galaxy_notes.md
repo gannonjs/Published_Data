@@ -135,7 +135,7 @@ Data sources: \citet{mcconnachie2012, torrealba2019}
 
 ### WLM
 Notes:
-WLM is gas-rich and undergoing active star formation \citep{Leaman2009}. 
+WLM is gas-rich and undergoing active star formation \citep{Leaman2009}. It also likely has a large rotation component in its dynamics \citet{Leaman2009}.
 $a$ = Absolute magnitude calculated from given m - M. 
 $b$ = Vega magnitude. 
 $c$ = Surface brightness calculated using equation 12 of \citet{Graham2005}. 
@@ -149,7 +149,7 @@ Data sources: \citet{Chilingarian2019, Gannon2021}.
 
 ### J130026.26+272735.2
 Notes: 
-$a$ = M_V calculated from $R$-band using $V = R +0.5$ (based on Virgo dE's; \citealp{vanZee2004}) 
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004}) 
 Data sources: \citet{Chilingarian2019, Gannon2021}.
 
 ### VCC 811
@@ -179,6 +179,55 @@ Data sources: \citet{Lim2018, Toloba2023}.
 $a$ = Vega magnitude. 
 $b$ = Beware, half-light radius may not be circularised and is likely semi-major
 Data sources: \citet{Lim2018, Toloba2023}.
+
+### DF07
+$a$ = Absolute magnitude from \citet{vanDokkum2015} transformed from $g$-band using $V = g-0.3$. 
+$b$ = half-light radius circularised with literature b/a
+$c$ = Surface brightness calculated using the properties listed in Table 1 of \citet{vanDokkum2017} at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{vanDokkum2015, FerreMateu2023}
+
+### Yagi 093
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
+$b$ = half-light radius circularised with catalogue b/a
+$c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{Yagi2016, Alabi2018, FerreMateu2018}
+
+### Yagi 098
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
+$b$ = half-light radius circularised with catalogue b/a
+$c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{Yagi2016, Alabi2018, FerreMateu2018}
+
+### Yagi 275
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
+$b$ = half-light radius circularised with catalogue b/a
+$c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{Yagi2016,Alabi2018, FerreMateu2018}
+
+### Yagi 276
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
+$b$ = half-light radius circularised with catalogue b/a
+$c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{Yagi2016, Alabi2018, FerreMateu2018}
+
+### Yagi 418
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
+$b$ = half-light radius circularised with catalogue b/a. Note that it makes the category as its semi-major Re is about 1.5 kpc. It is this circularisation that takes it below 1.5 kpc. 
+$c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+$d$ = stellar population properties for this galaxy are also presented in \citet{RuizLara2018} here we preference the \citet{FerreMateu} age/metallicity values due to them being mass weighted in contrast to the RL18 light-weighted values. higher S/N of the spectrum.
+Data sources: \citet{Yagi2016, Alabi2018, RuizLara2018,}
+
+### Yagi 090
+$a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
+$b$ = half-light radius circularised with catalogue b/a
+$c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{Yagi2016, RuizLara2018}
+
+### DF17
+$a$ = half-light radius circularised with literature b/a
+$b$ = Surface brightness calculated using the properties listed in Table 1 of \citet{vanDokkum2017} at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+$c$ = Note that \citet{Lim2018} and \citet{vanDokkum2017} also have GC richness measurements for this galaxy. All are within errors of one another and are in good agreement.
+Data sources: \citet{vanDokkum2017,Saifollahi2022, Gu2018}
 
 
 
