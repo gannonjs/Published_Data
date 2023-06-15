@@ -5,24 +5,34 @@ June 2023
 The columns in UDG_data.csv from left to right are:
 
 1) UDG primary designation used to identify it in individual_galaxy_notes
-2) Environment: 1= cluster, 2=group, 3=field/filament
-3) Distance [Mpc] - frequently assumed
-4) Absolue V-band Magnitude [mag]
-5) Average V-band surface brightness < \mu_V >_e within the half-light radius [mag arcsec^-2]
-6) Stellar mass [ x 10^8 Solar Units]
-7) 2-D Circularised Half-light Radius [kpc]
-8) Recessional Velocity [km/s]
-9) Uncertainty on Recessonal Velocity up [km/s]
-10) Uncertainty on Recessional Velocity down [km/s]
-11) Stellar velocity Dispersion [km/s]
-12) Uncertainty on stellar velocity dispersion up [km/s]
-13) Uncertainty on stellar velocity dispersion down [km/s]
-14) Globular Cluster velocity dispersion [km/s] 
-15) Uncertainty on globular cluster velocity dispersion up [km/s]
-16) Uncertainty on globular cluster velocity dispersion down [km/s]
-17) Number of globular clusters
-18) Uncertainty on number of globular clusters up
-19) Uncertainty on number of globular clusters down
+2) Secondary UDG designations
+3) Environment: 1= cluster, 2=group, 3=field/filament
+4) Distance [Mpc] - frequently assumed
+5) Absolue V-band Magnitude [mag]
+6) Average V-band surface brightness < \mu_V >_e within the half-light radius [mag arcsec^-2]
+7) Stellar mass [ x 10^8 Solar Units]
+8) 2-D Circularised Half-light Radius [kpc]
+9) Recessional Velocity [km/s]
+10) Uncertainty on Recessonal Velocity + [km/s]
+11) Uncertainty on Recessional Velocity - [km/s]
+12) Stellar velocity Dispersion [km/s]
+13) Uncertainty on stellar velocity dispersion + [km/s]
+14) Uncertainty on stellar velocity dispersion - [km/s]
+15) Globular Cluster velocity dispersion [km/s] 
+16) Uncertainty on globular cluster velocity dispersion + [km/s]
+17) Uncertainty on globular cluster velocity dispersion - [km/s]
+18) Number of globular clusters
+19) Uncertainty on number of globular clusters +
+20) Uncertainty on number of globular clusters -
+21) Mass weighted age [Gyr]
+22) Uncertainty on mass weighted age + [Gyr]
+23) Uncertainty on mass weighted age - [Gyr]
+24) Mass weighted metallicity [Z/H] [dex]
+25) Uncertainty on mass weighted metallicity [Z/H] + [dex]
+26) Uncertainty on mass weighted metallicity [Z/H] - [dex]
+27) Alpha enhancement [Mg/Fe] [dex]
+28) Uncertainty on Alpha enhancement [Mg/Fe] + [dex]
+29) Uncertainty on Alpha enhancement [Mg/Fe] - [dex]
 
-Units are given in [square brackets]
+Units are given in [square brackets] at the end
 Unknown values have been replaced with -1
