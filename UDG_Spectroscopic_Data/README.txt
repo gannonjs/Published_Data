@@ -19,7 +19,6 @@ It contains:
 4) individual_galaxy_notes.md - A list of each galaxy included in the compilation including notes on where the data comes from and considerations made when selecting the inclusions.
 5) udg_data.csv - a csv file containing the UDG database. The first row re-lists the columns.
 
-
 To be included in the database galaxies are required to have:
 1) A half-light radius > 1.5 kpc (note this is semi-major while the table lists circularised).
 2) An average V-band surface brightness < \mu_V >)_e within the half-light radius greater than 24.7 mag/ arcsec^2.
