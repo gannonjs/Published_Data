@@ -72,7 +72,8 @@ $a$ = While there existed some initial controversy over the distance of NGC 1052
 $b$ = Surface brightness calculated using the properties listed for the single S\'ersic fit in Table 2 of \citet{Cohen2018} and equation 11 of \citet{Graham2005}. 
 $c$ = We preference the recessional velocity and velocity dispersion values reported by \citet{Danieli2019} over those reported in \citet{Emsellem2019} due to the greater instrumental resolution of Keck/KCWI over VLT/MUSE.
 $d$ = For the GC counts we use the value of GCs in the roughly expected GC luminosity function window as reported by \citet{Shen2021}. This value excludes the brighter sub-population. 
-Data sources: \citet{Fensch2018, Danieli2019, Shen2021}.
+$e$ = Note that this galaxy has had its stellar populations studied by both \citet{RuizLara2019} and also by \citet{Fensch2019}. Here we use the \citet{Fensch2019} values due to the higher FOV of MUSE over OSIRIS being expected to capture a more global value. Both values are in reasonable agreement. 
+Data sources: \citet{Fensch2019, Danieli2019, Shen2021}.
 
 ### NGC 5846 UDG1
 Notes: 
@@ -95,30 +96,30 @@ Data sources: \citet{Lim2018, Toloba2023}.
 Notes:
 $a$ = M_g transformed from $g$-band using $V = g-0.3$.
 $b$ = half-light radius circularised using literature $b/a$. 
-Data source: \citet{Gannon2021b, FerreMateu2023}. 
+Data source: \citet{Gannon2022, FerreMateu2023}. 
 
 ### PUDG R16
 Notes: 
 $a$ = M_g transformed from $g$-band using $V = g-0.3$.
 $b$ = half-light radius circularised using literature $b/a$. 
-Data source: \citet{Gannon2021b}. 
+Data source: \citet{Gannon2022}. 
 
 ### PUDG S74
 Notes: 
 $a$ = M_g transformed from $g$-band using $V = g-0.3$.
 $b$ = half-light radius circularised using literature $b/a$. 
-Data source: \citet{Gannon2021b, FerreMateu2023}. 
+Data source: \citet{Gannon2022, FerreMateu2023}. 
 
 ### PUDG R84
 Notes: 
 $a$ = M_g transformed from $g$-band using $V = g-0.3$.
 $b$ = half-light radius circularised using literature $b/a$. 
-Data source: \citet{Gannon2021b, FerreMateu2023}. 
+Data source: \citet{Gannon2022, FerreMateu2023}. 
 
 ### Saggitarius dSph
 Notes: 
 Note this galaxy is known to be tidally disrupting around the Milky Way \citep{Ibata2001}
-$a$ Surface brightness caclulated using the properties listed in Table 1 of \citet{forbes2018} and equation 12 of \citet{Graham2005}. 
+$a$ Surface brightness caclulated using the properties listed in Table 1 of \citet{Forbes2018} and equation 12 of \citet{Graham2005}. 
 Data sources: \citet{mcconnachie2012, Karachentsev2017, Forbes2018}.
 
 ### UDG1137+16
@@ -158,7 +159,7 @@ Data sources: \citet{Lim2018, Toloba2023}.
 Notes: 
 $a$ = Vega magnitude.
 $b$ = Half-light radius circularised using literature ellipticity.
-$c$ = Many of the properties presented in the table were updated in \citet{toloba2023| from those listed in \citet{Toloba218}
+$c$ = Many of the properties presented in the table were updated in \citet{Toloba2023} from those listed in \citet{Toloba2018}
 Data sources: \citet{Toloba2018, Lim2020, Toloba2023}. 
 
 ### VLSB-D
@@ -166,7 +167,7 @@ Notes:
 VLSB-D has an elongated structure and velocity gradient \citep{Toloba2018} that suggests it is undergoing tidal stripping. 
 $a$ = Vega magnitude.
 $b$ = Half-light radius circularised using literature ellipticity.
-$c$ = Many of the properties presented in the table were updated in \citet{toloba2023| from those listed in \citet{Toloba218}
+$c$ = Many of the properties presented in the table were updated in \citet{Toloba2023} from those listed in \citet{Toloba2018}
 Data sources: \citet{Toloba2018, Lim2020, Toloba2023}
 
 ### WLM
@@ -176,7 +177,7 @@ $a$ = Absolute magnitude calculated from given m - M.
 $b$ = Vega magnitude. 
 $c$ = Surface brightness calculated using equation 12 of \citet{Graham2005}. 
 $d$ = Stellar mass caluclated from $V$-band magnitude assuming $M_{\star}/L_{V}$ = 2.
-Data sources: \citet{mcconnachie2012, forbes2018}
+Data sources: \citet{mcconnachie2012, Forbes2018}
 
 ### Yagi 093
 $a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
@@ -212,7 +213,7 @@ Data sources: \citet{Gannon2023a}, \citet{vanDokkum2017} and \citet{Lim2018}.
 $a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
 $b$ = half-light radius circularised with catalogue b/a. Note that it makes the category as its semi-major Re is about 1.5 kpc. It is this circularisation that takes it below 1.5 kpc. 
 $c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
-$d$ = stellar population properties for this galaxy are also presented in \citet{RuizLara2018} here we preference the \citet{FerreMateu} age/metallicity values due to them being mass weighted in contrast to the RL18 light-weighted values. higher S/N of the spectrum.
+$d$ = stellar population properties for this galaxy are also presented in \citet{RuizLara2018} here we preference the \citet{FerreMateu2023} age/metallicity values due to them being mass weighted in contrast to the RL18 light-weighted values. higher S/N of the spectrum.
 Data sources: \citet{Yagi2016, Alabi2018, RuizLara2018,}
 
 
