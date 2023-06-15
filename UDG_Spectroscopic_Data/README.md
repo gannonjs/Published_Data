@@ -6,7 +6,7 @@ Gannon J.~S., Forbes D.~A., Brodie J.~P., Romanowsky A.~J., Couch W.~J., Ferr{\'
 
 And an extension of the spectroscopic stellar population information listed between Tables 1 and 2 in:
 
-Ferr{\'e}-Mateu A., Gannon J.~S., Forbes D.~A., Buzzo M. L., Romanowsky A.~J., Brodie J.~P., 2023, MNRAS, Submittied.
+Ferr{\'e}-Mateu A., Gannon J.~S., Forbes D.~A., Buzzo M. L., Romanowsky A.~J., Brodie J.~P., MNRAS, Submittied.
 
 It is requested users of this database please cite the above work.
 
