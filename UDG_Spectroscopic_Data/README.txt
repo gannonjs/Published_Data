@@ -1,4 +1,4 @@
-This folder is designed to store a public database of UDG spectroscopic data. 
+#### This folder is designed to store a public database of UDG spectroscopic data. 
 
 It represents an extension of the spectroscopic velocity dispersins listed in Table A1 from:
 
@@ -9,6 +9,8 @@ And an extension of the spectroscopic stellar population information listed betw
 Ferr{\'e}-Mateu A., Gannon J.~S., Forbes D.~A., Buzzo M. L., Romanowsky A.~J., Brodie J.~P., 2023, MNRAS, Submittied.
 
 It is requested users of this database please cite the above work.
+
+## Please note that the galaxies DF44 and DFX1 are currently repeated with the two disagreeing globular cluster counts. If not using this table to compare to globular cluster counts one entry should be deleted.
 
 It contains:
 1) This Readme
