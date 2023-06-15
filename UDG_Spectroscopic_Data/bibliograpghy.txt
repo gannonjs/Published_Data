@@ -5,23 +5,6 @@ June 2023
 
 Bibliography Entries (not sorted in any manner):
 
-@ARTICLE{Toloba2023,
-       author = {{Toloba}, Elisa and {Sales}, Laura V. and {Lim}, Sungsoon and {Peng}, Eric W. and {Guhathakurta}, Puragra and {Roediger}, Joel and {Wang}, Kaixiang and {Mihos}, J. Christopher and {Cote}, Patrick and {Durrell}, Patrick R. and {Ferrarese}, Laura},
-        title = "{The Next Generation Virgo Cluster Survey (NGVS). XXXV. First Kinematical Clues of Overly-Massive Dark Matter Halos in Several Ultra-Diffuse Galaxies in the Virgo Cluster}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - Astrophysics of Galaxies},
-         year = 2023,
-        month = may,
-          eid = {arXiv:2305.06369},
-        pages = {arXiv:2305.06369},
-          doi = {10.48550/arXiv.2305.06369},
-archivePrefix = {arXiv},
-       eprint = {2305.06369},
- primaryClass = {astro-ph.GA},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230506369T},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
 @ARTICLE{Leaman2012,
        author = {{Leaman}, Ryan and {Venn}, Kim A. and {Brooks}, Alyson M. and {Battaglia}, Giuseppina and {Cole}, Andrew A. and {Ibata}, Rodrigo A. and {Irwin}, Mike J. and {McConnachie}, Alan W. and {Mendel}, J. Trevor and {Tolstoy}, Eline},
         title = "{The Resolved Structure and Dynamics of an Isolated Dwarf Galaxy: A VLT and Keck Spectroscopic Survey of WLM}",
@@ -41,9 +24,7 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-
-
-@ARTICLE{Gannon2023,
+@ARTICLE{Gannon2023a,
        author = {{Gannon}, Jonah S. and {Forbes}, Duncan A. and {Brodie}, Jean P. and {Romanowsky}, Aaron J. and {Couch}, Warrick J. and {Ferr{\'e}-Mateu}, Anna},
         title = "{Keck spectroscopy of the coma cluster ultra-diffuse galaxy Y358: dynamical mass in a wider context}",
       journal = {\mnras},
@@ -133,6 +114,101 @@ archivePrefix = {arXiv},
        eprint = {2006.04606},
  primaryClass = {astro-ph.GA},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...640A.106M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Toloba2023,
+       author = {{Toloba}, Elisa and {Sales}, Laura V. and {Lim}, Sungsoon and {Peng}, Eric W. and {Guhathakurta}, Puragra and {Roediger}, Joel and {Wang}, Kaixiang and {Mihos}, J. Christopher and {Cote}, Patrick and {Durrell}, Patrick R. and {Ferrarese}, Laura},
+        title = "{The Next Generation Virgo Cluster Survey (NGVS). XXXV. First Kinematical Clues of Overly-Massive Dark Matter Halos in Several Ultra-Diffuse Galaxies in the Virgo Cluster}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = may,
+          eid = {arXiv:2305.06369},
+        pages = {arXiv:2305.06369},
+          doi = {10.48550/arXiv.2305.06369},
+archivePrefix = {arXiv},
+       eprint = {2305.06369},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230506369T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Yagi2016,
+       author = {{Yagi}, Masafumi and {Koda}, Jin and {Komiyama}, Yutaka and {Yamanoi}, Hitomo},
+        title = "{Catalog of Ultra-diffuse Galaxies in the Coma Clusters from Subaru Imaging Data}",
+      journal = {\apjs},
+     keywords = {galaxies: clusters: individual: Abell 1656, galaxies: structure},
+         year = 2016,
+        month = jul,
+       volume = {225},
+       number = {1},
+          eid = {11},
+        pages = {11},
+          doi = {10.3847/0067-0049/225/1/11},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJS..225...11Y},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{FerreMateu2018,
+       author = {{Ferr{\'e}-Mateu}, Anna and {Alabi}, Adebusola and {Forbes}, Duncan A. and {Romanowsky}, Aaron J. and {Brodie}, Jean and {Pandya}, Viraj and {Mart{\'\i}n-Navarro}, Ignacio and {Bellstedt}, Sabine and {Wasserman}, Asher and {Stone}, Maria B. and {Okabe}, Nobuhiro},
+        title = "{Origins of ultradiffuse galaxies in the Coma cluster - II. Constraints from their stellar populations}",
+      journal = {\mnras},
+     keywords = {galaxies: evolution, galaxies: formation, galaxies: kinematics and dynamics, galaxies: stellar content, Astrophysics - Astrophysics of Galaxies},
+         year = 2018,
+        month = oct,
+       volume = {479},
+       number = {4},
+        pages = {4891-4906},
+          doi = {10.1093/mnras/sty1597},
+archivePrefix = {arXiv},
+       eprint = {1801.09695},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4891F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{FerreMateu2023,
+       author = {{Ferr{\'e}-Mateu}, Anna and {Gannon}, Jonah S. and {Forbes}, Duncan A. and {Buzzo}, Maria Luisa and {Romanowsky}, Aaron J. and {Brodie}, Jean},
+        title = "{The star formation histories of quiescent ultra-diffuse galaxies and their
+dependence on environment and globular cluster richness}",
+      journal = {MNRAS},
+         year = 2023
+}
+
+@ARTICLE{Alabi2018,
+       author = {{Alabi}, Adebusola and {Ferr{\'e}-Mateu}, Anna and {Romanowsky}, Aaron J. and {Brodie}, Jean and {Forbes}, Duncan A. and {Wasserman}, Asher and {Bellstedt}, Sabine and {Mart{\'\i}n-Navarro}, Ignacio and {Pandya}, Viraj and {Stone}, Maria B. and {Okabe}, Nobuhiro},
+        title = "{Origins of ultradiffuse galaxies in the Coma cluster - I. Constraints from velocity phase space}",
+      journal = {\mnras},
+     keywords = {galaxies: dwarf, galaxies: evolution, galaxies: interactions, galaxies: kinematics and dynamics, Astrophysics - Astrophysics of Galaxies},
+         year = 2018,
+        month = sep,
+       volume = {479},
+       number = {3},
+        pages = {3308-3318},
+          doi = {10.1093/mnras/sty1616},
+archivePrefix = {arXiv},
+       eprint = {1801.09686},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.3308A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Gannon2023,
+       author = {{Gannon}, Jonah S. and {Forbes}, Duncan A. and {Brodie}, Jean P. and {Romanowsky}, Aaron J. and {Couch}, Warrick J. and {Ferr{\'e}-Mateu}, Anna},
+        title = "{Keck spectroscopy of the coma cluster ultra-diffuse galaxy Y358: dynamical mass in a wider context}",
+      journal = {\mnras},
+     keywords = {galaxies: elliptical and lenticular, cD, galaxies: formation, galaxies: fundamental parameters, galaxies: haloes, galaxies: kinematics and dynamics, Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = jan,
+       volume = {518},
+       number = {3},
+        pages = {3653-3666},
+          doi = {10.1093/mnras/stac3264},
+archivePrefix = {arXiv},
+       eprint = {2211.03915},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.3653G},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -650,7 +726,7 @@ archivePrefix = {arXiv},
 }
 
 
-@ARTICLE{Gannon2021b,
+@ARTICLE{Gannon2022,
        author = {{Gannon}, Jonah S. and {Forbes}, Duncan A. and {Romanowsky}, Aaron J. and {Ferr{\'e}-Mateu}, Anna and {Couch}, Warrick J. and {Brodie}, Jean P. and {Huang}, Song and {Janssens}, Steven R. and {Okabe}, Nobuhiro},
         title = "{Ultra-diffuse galaxies in the perseus cluster: comparing galaxy properties with globular cluster system richness}",
       journal = {\mnras},
@@ -665,6 +741,135 @@ archivePrefix = {arXiv},
        eprint = {2111.06007},
  primaryClass = {astro-ph.GA},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..946G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Webb2022,
+       author = {{Webb}, Kristi A. and {Villaume}, Alexa and {Laine}, Seppo and {Romanowsky}, Aaron J. and {Balogh}, Michael and {van Dokkum}, Pieter and {Forbes}, Duncan A. and {Brodie}, Jean and {Martin}, Christopher and {Matuszewski}, Matt},
+        title = "{Still at odds with conventional galaxy evolution: the star formation history of ultradiffuse galaxy Dragonfly 44}",
+      journal = {\mnras},
+     keywords = {galaxies: evolution, Astrophysics - Astrophysics of Galaxies},
+         year = 2022,
+        month = nov,
+       volume = {516},
+       number = {3},
+        pages = {3318-3341},
+          doi = {10.1093/mnras/stac2417},
+archivePrefix = {arXiv},
+       eprint = {2208.11038},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.3318W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Villaume2022,
+       author = {{Villaume}, Alexa and {Romanowsky}, Aaron J. and {Brodie}, Jean and {van Dokkum}, Pieter and {Conroy}, Charlie and {Forbes}, Duncan A. and {Danieli}, Shany and {Martin}, Christopher and {Matuszewski}, Matt},
+        title = "{Spatially Resolved Stellar Spectroscopy of the Ultra-diffuse Galaxy Dragonfly 44. III. Evidence for an Unexpected Star Formation History under Conventional Galaxy Evolution Processes}",
+      journal = {\apj},
+     keywords = {270, 224, 594, 2040, 621, Astrophysics - Astrophysics of Galaxies},
+         year = 2022,
+        month = jan,
+       volume = {924},
+       number = {1},
+          eid = {32},
+        pages = {32},
+          doi = {10.3847/1538-4357/ac341e},
+archivePrefix = {arXiv},
+       eprint = {2101.02220},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022ApJ...924...32V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Gu2018,
+       author = {{Gu}, Meng and {Conroy}, Charlie and {Law}, David and {van Dokkum}, Pieter and {Yan}, Renbin and {Wake}, David and {Bundy}, Kevin and {Merritt}, Allison and {Abraham}, Roberto and {Zhang}, Jielai and {Bershady}, Matthew and {Bizyaev}, Dmitry and {Brinkmann}, Jonathan and {Drory}, Niv and {Grabowski}, Kathleen and {Masters}, Karen and {Pan}, Kaike and {Parejko}, John and {Weijmans}, Anne-Marie and {Zhang}, Kai},
+        title = "{Low Metallicities and Old Ages for Three Ultra-diffuse Galaxies in the Coma Cluster}",
+      journal = {\apj},
+     keywords = {galaxies: clusters: individual: Coma, galaxies: evolution, galaxies: stellar content, Astrophysics - Astrophysics of Galaxies},
+         year = 2018,
+        month = may,
+       volume = {859},
+       number = {1},
+          eid = {37},
+        pages = {37},
+          doi = {10.3847/1538-4357/aabbae},
+archivePrefix = {arXiv},
+       eprint = {1709.07003},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018ApJ...859...37G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{vanDokkum2015,
+       author = {{van Dokkum}, Pieter G. and {Abraham}, Roberto and {Merritt}, Allison and {Zhang}, Jielai and {Geha}, Marla and {Conroy}, Charlie},
+        title = "{Forty-seven Milky Way-sized, Extremely Diffuse Galaxies in the Coma Cluster}",
+      journal = {\apjl},
+     keywords = {galaxies: clusters: individual: Coma, galaxies: evolution, galaxies: structure, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = 2015,
+        month = jan,
+       volume = {798},
+       number = {2},
+          eid = {L45},
+        pages = {L45},
+          doi = {10.1088/2041-8205/798/2/L45},
+archivePrefix = {arXiv},
+       eprint = {1410.8141},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...798L..45V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Fensch2019,
+       author = {{Fensch}, J{\'e}r{\'e}my and {van der Burg}, Remco F.~J. and {Je{\v{r}}{\'a}bkov{\'a}}, Tereza and {Emsellem}, Eric and {Zanella}, Anita and {Agnello}, Adriano and {Hilker}, Michael and {M{\"u}ller}, Oliver and {Rejkuba}, Marina and {Duc}, Pierre-Alain and {Durrell}, Patrick and {Habas}, Rebecca and {Lim}, Sungsoon and {Marleau}, Francine R. and {Peng}, Eric W. and {S{\'a}nchez Janssen}, Rub{\'e}n},
+        title = "{The ultra-diffuse galaxy NGC 1052-DF2 with MUSE. II. The population of DF2: stars, clusters, and planetary nebulae}",
+      journal = {\aap},
+     keywords = {galaxies: star clusters: general, galaxies: stellar content, galaxies: dwarf, Astrophysics - Astrophysics of Galaxies},
+         year = 2019,
+        month = may,
+       volume = {625},
+          eid = {A77},
+        pages = {A77},
+          doi = {10.1051/0004-6361/201834911},
+archivePrefix = {arXiv},
+       eprint = {1812.07346},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019A&A...625A..77F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{RuizLara2018,
+       author = {{Ruiz-Lara}, T. and {Beasley}, M.~A. and {Falc{\'o}n-Barroso}, J. and {Rom{\'a}n}, J. and {Pinna}, F. and {Brook}, C. and {Di Cintio}, A. and {Mart{\'\i}n-Navarro}, I. and {Trujillo}, I. and {Vazdekis}, A.},
+        title = "{Spectroscopic characterization of the stellar content of ultra-diffuse galaxies}",
+      journal = {\mnras},
+     keywords = {methods: observational, techniques: spectroscopic, galaxies: evolution, galaxies: formation, galaxies: kinematics and dynamics, galaxies: stellar content, Astrophysics - Astrophysics of Galaxies},
+         year = 2018,
+        month = aug,
+       volume = {478},
+       number = {2},
+        pages = {2034-2045},
+          doi = {10.1093/mnras/sty1112},
+archivePrefix = {arXiv},
+       eprint = {1803.06298},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.2034R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{RuizLara2019,
+       author = {{Ruiz-Lara}, T. and {Trujillo}, I. and {Beasley}, M.~A. and {Falc{\'o}n-Barroso}, J. and {Vazdekis}, A. and {Filho}, M. and {Monelli}, M. and {Rom{\'a}n}, J. and {S{\'a}nchez Almeida}, J.},
+        title = "{Stellar content, planetary nebulae, and globular clusters of [KKS2000]04 (NGC 1052-DF2)}",
+      journal = {\mnras},
+     keywords = {methods: observational, techniques: spectroscopic, galaxies: evolution, galaxies: formation, galaxies: kinematics and dynamics, galaxies: stellar content, Astrophysics - Astrophysics of Galaxies},
+         year = 2019,
+        month = jul,
+       volume = {486},
+       number = {4},
+        pages = {5670-5678},
+          doi = {10.1093/mnras/stz1237},
+archivePrefix = {arXiv},
+       eprint = {1903.09163},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.5670R},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
