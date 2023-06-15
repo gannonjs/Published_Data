@@ -35,4 +35,4 @@ The columns in UDG_data.csv from left to right are:
 29) Uncertainty on Alpha enhancement [Mg/Fe] - [dex]
 
 Units are given in [square brackets] at the end
-Unknown values have been replaced with -1
+Unknown values have been replaced with -999
