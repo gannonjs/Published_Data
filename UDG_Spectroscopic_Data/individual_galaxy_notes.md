@@ -55,11 +55,6 @@ $c$ = Half-light radius circularised using literature $b/a$.
 $d$ = Note that some of these GC's may be overluminous \citep{Janssens2022}. 
 Data sources: \citet{MartinezDelgado2016, MartinNavarro2019, Janssens2022}. 
 
-### J125929.89+274303.0
-Notes:
-$a$ = M_V calculated from $R$-band using $V = R +0.5$ (based on Virgo dE's; \citealp{vanZee2004}) 
-Data sources: \citet{Chilingarian2019, Gannon2021}.
-
 ### J130026.26+272735.2
 Notes: 
 $a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004}) 
@@ -195,7 +190,7 @@ Data sources: \citet{Yagi2016, Alabi2018, FerreMateu2018}
 $a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
 $b$ = half-light radius circularised with catalogue b/a
 $c$ = Surface brightness calculated using our Mv and Re at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
-Data sources: \citet{Yagi2016,Alabi2018, FerreMateu2018}
+Data sources: \citet{Yagi2016,Alabi2018, FerreMateu2018, Chilingarian2019}
 
 ### Yagi 276
 $a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004})
