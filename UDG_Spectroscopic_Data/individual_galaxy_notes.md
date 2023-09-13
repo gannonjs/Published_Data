@@ -55,6 +55,12 @@ $c$ = Half-light radius circularised using literature $b/a$.
 $d$ = Note that some of these GC's may be overluminous \citep{Janssens2022}. 
 Data sources: \citet{MartinezDelgado2016, MartinNavarro2019, Janssens2022}. 
 
+### Hydra-I UDG 11
+Notes:
+$a$ = Converted to $g$ band using listed g-r colour then transformed to $V$-band assuming $V = g-0.3$. 
+$b$ = Surface brightness calculated using the half-light radius, magnitude and equation 11 of \citet{Graham2005}. 
+Data sources: \citet{Iodice2020, Iodice2023}.
+
 ### J130026.26+272735.2
 Notes: 
 $a$ = M_V calculated from $R$-band using $V = R + 0.5$ (based on Virgo dE's; \citealp{vanZee2004}) 
