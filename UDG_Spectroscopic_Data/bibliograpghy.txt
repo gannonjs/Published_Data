@@ -24,6 +24,43 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{Iodice2023,
+       author = {{Iodice}, Enrichetta and {Hilker}, Michael and {Doll}, Goran and {Mirabile}, Marco and {Buttitta}, Chiara and {Hartke}, Johanna and {Mieske}, Steffen and {Cantiello}, Michele and {D'Ago}, Giuseppe and {Forbes}, Duncan A. and {Gullieuszik}, Marco and {Rejkuba}, Marina and {Spavone}, Marilena and {Spiniello}, Chiara and {Arnaboldi}, Magda and {Corsini}, Enrico M. and {Greggio}, Laura and {Falc{\'o}n-Barroso}, Jesus and {Fahrion}, Katja and {Fritz}, Jacopo and {La Marca}, Antonio and {Paolillo}, Maurizio and {Raj}, Maria Angela and {Rampazzo}, Roberto and {Sarzi}, Marc and {Capasso}, Giulio},
+        title = "{Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = aug,
+          eid = {arXiv:2308.11493},
+        pages = {arXiv:2308.11493},
+          doi = {10.48550/arXiv.2308.11493},
+archivePrefix = {arXiv},
+       eprint = {2308.11493},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230811493I},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Iodice2020,
+       author = {{Iodice}, E. and {Cantiello}, M. and {Hilker}, M. and {Rejkuba}, M. and {Arnaboldi}, M. and {Spavone}, M. and {Greggio}, L. and {Forbes}, D.~A. and {D'Ago}, G. and {Mieske}, S. and {Spiniello}, C. and {La Marca}, A. and {Rampazzo}, R. and {Paolillo}, M. and {Capaccioli}, M. and {Schipani}, P.},
+        title = "{The first detection of ultra-diffuse galaxies in the Hydra I cluster from the VEGAS survey}",
+      journal = {\aap},
+     keywords = {galaxies: clusters: individual: Hydra I, galaxies: photometry, galaxies: dwarf, galaxies: formation, Astrophysics - Astrophysics of Galaxies},
+         year = 2020,
+        month = oct,
+       volume = {642},
+          eid = {A48},
+        pages = {A48},
+          doi = {10.1051/0004-6361/202038523},
+archivePrefix = {arXiv},
+       eprint = {2007.11533},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...642A..48I},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{Gannon2023a,
        author = {{Gannon}, Jonah S. and {Forbes}, Duncan A. and {Brodie}, Jean P. and {Romanowsky}, Aaron J. and {Couch}, Warrick J. and {Ferr{\'e}-Mateu}, Anna},
         title = "{Keck spectroscopy of the coma cluster ultra-diffuse galaxy Y358: dynamical mass in a wider context}",
