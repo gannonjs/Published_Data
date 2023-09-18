@@ -74,7 +74,8 @@ $b$ = Surface brightness calculated using the properties listed for the single S
 $c$ = We preference the recessional velocity and velocity dispersion values reported by \citet{Danieli2019} over those reported in \citet{Emsellem2019} due to the greater instrumental resolution of Keck/KCWI over VLT/MUSE.
 $d$ = For the GC counts we use the value of GCs in the roughly expected GC luminosity function window as reported by \citet{Shen2021}. This value excludes the brighter sub-population. 
 $e$ = Note that this galaxy has had its stellar populations studied by both \citet{RuizLara2019} and also by \citet{Fensch2019}. Here we use the \citet{Fensch2019} values due to the higher FOV of MUSE over OSIRIS being expected to capture a more global value. Both values are in reasonable agreement. 
-Data sources: \citet{Fensch2019, Danieli2019, Shen2021}.
+$f$ = We note the distance to this galaxy has been updated in Appendix A of \citet{Shen2023}. 
+Data sources: \citet{Fensch2019, Danieli2019, Shen2021, Shen2023}.
 
 ### NGC 5846 UDG1
 Notes: 
