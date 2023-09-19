@@ -24,6 +24,24 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{Shen2023,
+       author = {{Shen}, Zili and {van Dokkum}, Pieter and {Danieli}, Shany},
+        title = "{Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
+        month = sep,
+          eid = {arXiv:2309.08592},
+        pages = {arXiv:2309.08592},
+archivePrefix = {arXiv},
+       eprint = {2309.08592},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230908592S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{Iodice2023,
        author = {{Iodice}, Enrichetta and {Hilker}, Michael and {Doll}, Goran and {Mirabile}, Marco and {Buttitta}, Chiara and {Hartke}, Johanna and {Mieske}, Steffen and {Cantiello}, Michele and {D'Ago}, Giuseppe and {Forbes}, Duncan A. and {Gullieuszik}, Marco and {Rejkuba}, Marina and {Spavone}, Marilena and {Spiniello}, Chiara and {Arnaboldi}, Magda and {Corsini}, Enrico M. and {Greggio}, Laura and {Falc{\'o}n-Barroso}, Jesus and {Fahrion}, Katja and {Fritz}, Jacopo and {La Marca}, Antonio and {Paolillo}, Maurizio and {Raj}, Maria Angela and {Rampazzo}, Roberto and {Sarzi}, Marc and {Capasso}, Giulio},
         title = "{Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results}",
