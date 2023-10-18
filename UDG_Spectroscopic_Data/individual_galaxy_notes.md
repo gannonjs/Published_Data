@@ -31,6 +31,7 @@ Data sources: \citet{vanDokkum2016, vanDokkum2017, vanDokkum2019b, Gannon2021, V
 $a$ = Absolute magnitude from \citet{vanDokkum2015} transformed from $g$-band using $V = g-0.3$. 
 $b$ = half-light radius circularised with literature b/a
 $c$ = Surface brightness calculated using the properties listed in Table 1 of \citet{vanDokkum2017} at a distance of 100 Mpc and equation 11 of \citet{Graham2005}. 
+$d$ = see also the GC counts for DF07 listed by \citet{Saifollahi2022}, 22 (+5, -7). We do not double list the entry for DF07 as we do for DF44 and DFX1 due to the similarity of this value to \citet{Lim2018} within 1-sigma uncertainties. 
 Data sources: \citet{vanDokkum2015, Gu2018, FerreMateu2023}
 
 ### DF17
