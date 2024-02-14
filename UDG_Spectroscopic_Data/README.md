@@ -2,7 +2,7 @@
 
 It represents a compilation of data from many studies. In order for each to get the recognition they deserved it is preferable for users to please cite the source material using the bibtex command below:
 
-\cite{mcconnachie2012, vanDokkum2015, Beasley2016, Martin2016, Yagi2016, MartinezDelgado2016,  vanDokkum2016, vanDokkum2017, Karachentsev2017, Toloba2018, Gu2018, Lim2018, RuizLara2018, Alabi2018, FerreMateu2018, Forbes2018, MartinNavarro2019, Chilingarian2019, Fensch2019, Danieli2019,  vanDokkum2019b, torrealba2019, Iodice2020, Collins2020, Muller2020, Gannon2020, Lim2020, Muller2021, Forbes2021, Shen2021, Gannon2021, Gannon2022, Mihos2022, Danieli2022, Villaume2022, Webb2022, Saifollahi2022, Janssens2022, FerreMateu2023, Toloba2023, Iodice2023}
+\cite{mcconnachie2012, vanDokkum2015, Beasley2016, Martin2016, Yagi2016, MartinezDelgado2016, vanDokkum2016, vanDokkum2017, Karachentsev2017, vanDokkum2018 Toloba2018, Gu2018, Lim2018, RuizLara2018, Alabi2018, FerreMateu2018, Forbes2018, MartinNavarro2019, Chilingarian2019, Fensch2019, Danieli2019, vanDokkum2019b, torrealba2019, Iodice2020, Collins2020, Muller2020, Gannon2020, Lim2020, Muller2021, Forbes2021, Shen2021, Gannon2021, Gannon2022, Mihos2022, Danieli2022, Villaume2022, Webb2022, Saifollahi2022, Janssens2022, Gannon2023, FerreMateu2023, Toloba2023, Iodice2023, Shen2023}
 
 We base this request on discussions held with community members at the conference "The Sunrise of Ultra-Diffuse Galaxies" held in Sesto, Italy July 2023.
 
@@ -16,7 +16,7 @@ It contains:
 5) udg_data.csv - a csv file containing the UDG database. The first row re-lists the columns.
 
 To be included in the database galaxies are required to have:
-1) A half-light radius > 1.5 kpc (note this is semi-major while the table lists circularised).
+1) A half-light radius > 1.5 kpc.
 2) An average V-band surface brightness < \mu_V >)_e within the half-light radius greater than 24.7 mag/ arcsec^2.
 3) A spectroscopic velocity dispersion and/or spectroscopic stellar population information (mass weighted age/mass weighted metallicity [Z/H])
 
