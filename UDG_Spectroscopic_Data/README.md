@@ -6,8 +6,6 @@ It represents a compilation of data from many studies. In order for each to get 
 
 We base this request on discussions held with community members at the conference "The Sunrise of Ultra-Diffuse Galaxies" held in Sesto, Italy July 2023.
 
-### Please note that the galaxies DF44 and DFX1 are currently repeated with the two disagreeing globular cluster counts. If not using this table to compare to globular cluster counts one entry should be deleted.
-
 It contains:
 1) This Readme
 2) bibiography.txt - A bibliography of bibtex entries for the source material
@@ -26,7 +24,7 @@ To the best of my knowledge I have included all galaxies published in the litera
 
 For those interested in seeing a version history of changes please consult the git comments.
 
-If you have any questions with the data, wish to have me include your galaxy in the database, or would like to disagree with me about my choices made please contact me via email:
+If you have any questions about the data, wish to have me include your galaxy in the database, or would like to disagree with me about my choices made please contact me via email:
 
 jonah.gannon@gmail.com
 
