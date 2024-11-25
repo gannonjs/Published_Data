@@ -2,7 +2,7 @@
 
 It represents a compilation of data from many studies. In order for each to get the recognition they deserved it is preferable for users to please cite the source material using the bibtex command below:
 
-\cite{mcconnachie2012, vanDokkum2015, Beasley2016, Martin2016, Yagi2016, MartinezDelgado2016, vanDokkum2016, vanDokkum2017, Karachentsev2017, vanDokkum2018, Toloba2018, Gu2018, Lim2018, RuizLara2018, Alabi2018, FerreMateu2018, Forbes2018, MartinNavarro2019, Chilingarian2019, Fensch2019, Danieli2019, vanDokkum2019b, torrealba2019, Iodice2020, Collins2020, Muller2020, Gannon2020, Lim2020, Muller2021, Forbes2021, Shen2021, Ji2021, Huang2021, Gannon2021, Gannon2022, Mihos2022, Danieli2022, Villaume2022, Webb2022, Saifollahi2022, Janssens2022, Gannon2023, FerreMateu2023, Toloba2023, Iodice2023, Shen2023}
+\cite{mcconnachie2012, vanDokkum2015, Beasley2016, Martin2016, Yagi2016, MartinezDelgado2016, vanDokkum2016, vanDokkum2017, Karachentsev2017, vanDokkum2018, Toloba2018, Gu2018, Lim2018, RuizLara2018, Alabi2018, FerreMateu2018, Forbes2018, MartinNavarro2019, Chilingarian2019, Fensch2019, Danieli2019, vanDokkum2019b, torrealba2019, Iodice2020, Collins2020, Muller2020, Gannon2020, Lim2020, Muller2021, Forbes2021, Shen2021, Ji2021, Huang2021, Gannon2021, Gannon2022, Mihos2022, Danieli2022, Villaume2022, Webb2022, Saifollahi2022, Janssens2022, Gannon2023, FerreMateu2023, Toloba2023, Iodice2023, Shen2023, Janssens2024, Gannon2024}
 
 We base this request on discussions held with community members at the conference "The Sunrise of Ultra-Diffuse Galaxies" held in Sesto, Italy July 2023. Please know that it may cause the doubling of some references if you already have them in your citation file with a different name to the list above.
 
