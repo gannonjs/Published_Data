@@ -5,6 +5,46 @@ June 2023
 
 Bibliography Entries (not sorted in any manner):
 
+@ARTICLE{Gannon2024,
+       author = {{Gannon}, Jonah S. and {Ferr{\'e}-Mateu}, Anna and {Forbes}, Duncan A. and {Brodie}, Jean P. and {Buzzo}, Maria Luisa and {Romanowsky}, Aaron J.},
+        title = "{A Catalogue and analysis of ultra-diffuse galaxy spectroscopic properties}",
+      journal = {\mnras},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2024,
+        month = jun,
+       volume = {531},
+       number = {1},
+        pages = {1856-1869},
+          doi = {10.1093/mnras/stae1287},
+archivePrefix = {arXiv},
+       eprint = {2405.09104},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1856G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{Janssens2024,
+       author = {{Janssens}, Steven R. and {Forbes}, Duncan A. and {Romanowsky}, Aaron J. and {Gannon}, Jonah and {Pfeffer}, Joel and {Couch}, Warrick J. and {Brodie}, Jean P. and {Harris}, William E. and {Durrell}, Patrick R. and {Bekki}, Kenji},
+        title = "{The PIPER survey. II. The globular cluster systems of low surface brightness galaxies in the Perseus cluster}",
+      journal = {\mnras},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2024,
+        month = oct,
+       volume = {534},
+       number = {1},
+        pages = {783-799},
+          doi = {10.1093/mnras/stae2137},
+archivePrefix = {arXiv},
+       eprint = {2409.07518},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.534..783J},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{Leaman2012,
        author = {{Leaman}, Ryan and {Venn}, Kim A. and {Brooks}, Alyson M. and {Battaglia}, Giuseppina and {Cole}, Andrew A. and {Ibata}, Rodrigo A. and {Irwin}, Mike J. and {McConnachie}, Alan W. and {Mendel}, J. Trevor and {Tolstoy}, Eline},
         title = "{The Resolved Structure and Dynamics of an Isolated Dwarf Galaxy: A VLT and Keck Spectroscopic Survey of WLM}",
