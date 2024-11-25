@@ -12,6 +12,7 @@ It contains:
 3) column_labels.txt - A list of the columns and their units
 4) individual_galaxy_notes.md - A list of each galaxy included in the compilation including notes on where the data comes from and considerations made when selecting the inclusions.
 5) udg_data.csv - a csv file containing the UDG database. The first row re-lists the columns.
+6) catalogue_plots.ipynb - a jupyternotebook containings some basic plots that can be made with the catalogue
 
 To be included in the database galaxies are required to have:
 1) A half-light radius > 1.5 kpc.
