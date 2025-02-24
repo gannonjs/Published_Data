@@ -64,6 +64,25 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{Buttitta2025,
+       author = {{Buttitta}, Chiara and {Iodice}, Enrichetta and {Doll}, Goran and {Hartke}, Johanna and {Hilker}, Michael and {Forbes}, Duncan A. and {Corsini}, Enrico M. and {Rossi}, Luca and {Arnaboldi}, Magda and {Cantiello}, Michele and {D'Ago}, Giuseppe and {Falcon-Barroso}, Jesus and {Gullieuszik}, Marco and {La Marca}, Antonio and {Mieske}, Steffen and {Mirabile}, Marco and {Paolillo}, Maurizio and {Rejkuba}, Marina and {Spavone}, Marilena and {Spiniello}, Chiara and {Sarzi}, Marc},
+        title = "{Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster II. Stellar kinematics and dynamical masses}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = 2025,
+        month = jan,
+          eid = {arXiv:2501.16190},
+        pages = {arXiv:2501.16190},
+          doi = {10.48550/arXiv.2501.16190},
+archivePrefix = {arXiv},
+       eprint = {2501.16190},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250116190B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{Shen2023,
        author = {{Shen}, Zili and {van Dokkum}, Pieter and {Danieli}, Shany},
         title = "{Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy}",
