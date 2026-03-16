@@ -302,6 +302,24 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{Doll2026,
+       author = {{Doll}, Goran and {Buttitta}, Chiara and {Iodice}, Enrichetta and {Ferr{\'e}-Mateu}, Anna and {Falc{\'o}n-Barroso}, Jesus and {Mart{\'\i}n-Navarro}, Ignacio and {Paolillo}, Maurizio and {Rossi}, Luca and {Forbes}, Duncan A. and {Spiniello}, Chiara and {Hartke}, Johanna and {Gullieuszik}, Marco and {Arnaboldi}, Magda and {Cantiello}, Michele and {Corsini}, Enrico Maria and {D'Ago}, Giuseppe and {Hilker}, Michael and {La Marca}, Antonio and {Mieske}, Steffen and {Mirabile}, Marco and {Rejkuba}, Marina and {Spavone}, Marilena},
+        title = "{Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster: V. Integrated stellar population properties}",
+      journal = {\aap},
+     keywords = {galaxies: abundances, galaxies: clusters: general, galaxies: dwarf, galaxies: evolution, galaxies: formation, Astrophysics of Galaxies},
+         year = 2026,
+        month = feb,
+       volume = {707},
+          eid = {A88},
+        pages = {A88},
+          doi = {10.1051/0004-6361/202556736},
+archivePrefix = {arXiv},
+       eprint = {2512.11710},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2026A&A...707A..88D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{Karunakaran2020,
        author = {{Karunakaran}, Ananthan and {Spekkens}, Kristine and {Zaritsky}, Dennis and {Donnerstein}, Richard L. and {Kadowaki}, Jennifer and {Dey}, Arjun},
         title = "{Systematically Measuring Ultradiffuse Galaxies in H I: Results from the Pilot Survey}",
